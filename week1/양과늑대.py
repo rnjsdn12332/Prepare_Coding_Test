@@ -1,3 +1,5 @@
+#https://school.programmers.co.kr/learn/courses/30/lessons/92343
+
 def solution(info, edges):
     answer = 0
     #방문 노드 확인 배열
